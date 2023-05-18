@@ -1,10 +1,11 @@
 # SortingAlgorithms
 I are covering a selection of classic sorting algorithms, including:
 
-Insertion Sort
-Quick Sort
-Merge Sort
-Bucket Sort
+Insertion Sort,
+Quick Sort,
+Merge Sort,
+and Bucket Sort
+
 Contained within this repository is a Jupyter Notebook which provides clear and concise code implementations of these algorithms.
 
 Contents
