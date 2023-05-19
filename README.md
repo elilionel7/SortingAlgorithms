@@ -15,7 +15,8 @@ An easy-to-understand, stable sorting algorithm that's great for small datasets 
 Best Tiem complexity: O(n)
 
 Quick Sort
-Quick Sort is a highly efficient sorting algorithm that employs the divide-and-conquer strategy. Its worst-case time complexity is O(n²), and at O(n log n) in the average case.
+Quick Sort is a highly efficient sorting algorithm that employs the divide-and-conquer strategy. 
+Its worst-case time complexity is O(n²) if pivot not choosing carefully, and at O(n log n) in the average case.
 
 Merge Sort
 Merge Sort is a stable, divide-and-conquer, sorting algorithm. It's consistent, with a time complexity of O(n log n), making it best for large datasets that don't fit into memory.
